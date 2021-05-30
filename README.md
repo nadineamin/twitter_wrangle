@@ -10,4 +10,6 @@ The libraries versions that were used in this project were the following:
 
 > matplotlib  3.3.4
 
-> 
+> seaborn     0.11.1
+
+> pandas      1.2.4
